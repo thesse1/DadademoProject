@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: DadademoProject
+  gitServerName: dadademo
+  gitUrl: https://github.com/thesse1/DadademoProject
+  gitUsername: thesse1
+  gitBranch: main
